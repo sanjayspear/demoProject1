@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-30T13:23:44 IST" name="Suite" finished-at="2024-07-30T13:25:28 IST" duration-ms="104303">
+    <groups>
+    </groups>
+    <test started-at="2024-07-30T13:23:44 IST" name="Test" finished-at="2024-07-30T13:25:28 IST" duration-ms="104303">
+      <class name="com.automationTalks.demoProject1.TestClass1">
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.automationTalks.demoProject1.TestClass1@70be0a2b]" started-at="2024-07-30T13:23:44 IST" name="launchDriver" finished-at="2024-07-30T13:24:09 IST" duration-ms="24805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="test1()[pri:0, instance:com.automationTalks.demoProject1.TestClass1@70be0a2b]" started-at="2024-07-30T13:24:09 IST" name="test1" finished-at="2024-07-30T13:24:13 IST" duration-ms="4175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="test4()[pri:0, instance:com.automationTalks.demoProject1.TestClass1@70be0a2b]" started-at="2024-07-30T13:24:13 IST" name="test4" finished-at="2024-07-30T13:24:13 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.automationTalks.demoProject1.TestClass1@70be0a2b]" started-at="2024-07-30T13:24:13 IST" name="launchDriver" finished-at="2024-07-30T13:24:40 IST" duration-ms="27193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="test2()[pri:0, instance:com.automationTalks.demoProject1.TestClass1@70be0a2b]" started-at="2024-07-30T13:24:40 IST" name="test2" finished-at="2024-07-30T13:24:52 IST" duration-ms="11739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="test4()[pri:0, instance:com.automationTalks.demoProject1.TestClass1@70be0a2b]" started-at="2024-07-30T13:24:52 IST" name="test4" finished-at="2024-07-30T13:24:52 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.automationTalks.demoProject1.TestClass1@70be0a2b]" started-at="2024-07-30T13:24:52 IST" name="launchDriver" finished-at="2024-07-30T13:25:17 IST" duration-ms="25191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="test3()[pri:0, instance:com.automationTalks.demoProject1.TestClass1@70be0a2b]" started-at="2024-07-30T13:25:17 IST" name="test3" finished-at="2024-07-30T13:25:28 IST" duration-ms="10859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="test4()[pri:0, instance:com.automationTalks.demoProject1.TestClass1@70be0a2b]" started-at="2024-07-30T13:25:28 IST" name="test4" finished-at="2024-07-30T13:25:28 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- com.automationTalks.demoProject1.TestClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
